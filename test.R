@@ -3,3 +3,4 @@ HELLO WORLD!
   charlie
 #BONJOUR
 #Salut G!!!!
+numeric(10)
