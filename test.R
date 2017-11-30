@@ -4,3 +4,4 @@ HELLO WORLD!
 #BONJOUR
 #Salut G!!!!
 numeric(10)
+2 * 2
